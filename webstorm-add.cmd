@@ -3,7 +3,7 @@
 :: Needs to be run as administrator.
 :: Change the paths below to match the desired IDE.
 :: Make sure you don't quote any of the paths in following lines, spaces are allowed.
-SET LaunchPath=C:\Users\Joe\AppData\Local\Programs\WebStorm\bin\webstorm.cmd
+SET LaunchPath=C:\Users\Joe\AppData\Local\Programs\WebStorm\bin\webstorm64.exe
 SET IconPath=C:\Users\Joe\AppData\Local\Programs\WebStorm\bin\webstorm.ico
 SET AppName=WebStorm
  
